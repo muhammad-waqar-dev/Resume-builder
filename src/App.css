@@ -1,0 +1,11 @@
+body{
+  overflow-x: hidden;
+}
+/* box shadow for template image */
+.template-img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+/* shadow css for about us img */
+.about-img{
+    filter: drop-shadow(10px 10px 10px #222);
+}
