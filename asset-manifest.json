@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/muhammad-waqar-dev/Resume-builder/static/css/main.4754bff1.css",
+    "main.js": "/muhammad-waqar-dev/Resume-builder/static/js/main.86cfb841.js",
+    "static/js/498.dd75e41a.chunk.js": "/muhammad-waqar-dev/Resume-builder/static/js/498.dd75e41a.chunk.js",
+    "static/js/703.4f1d69e5.chunk.js": "/muhammad-waqar-dev/Resume-builder/static/js/703.4f1d69e5.chunk.js",
+    "static/js/578.89ceb79e.chunk.js": "/muhammad-waqar-dev/Resume-builder/static/js/578.89ceb79e.chunk.js",
+    "static/media/aboutus.png": "/muhammad-waqar-dev/Resume-builder/static/media/aboutus.998b94cca027663ed0a8.png",
+    "static/media/resume-two.png": "/muhammad-waqar-dev/Resume-builder/static/media/resume-two.be9697201d5f02f5c4d8.png",
+    "static/media/resume-one.png": "/muhammad-waqar-dev/Resume-builder/static/media/resume-one.b64c230626a390785b62.png",
+    "static/media/logoresume.png": "/muhammad-waqar-dev/Resume-builder/static/media/logoresume.96b318499f2ee0ebabbf.png",
+    "static/media/aboutline.png": "/muhammad-waqar-dev/Resume-builder/static/media/aboutline.c86f98f8db46e72d1f52.png",
+    "index.html": "/muhammad-waqar-dev/Resume-builder/index.html",
+    "main.4754bff1.css.map": "/muhammad-waqar-dev/Resume-builder/static/css/main.4754bff1.css.map",
+    "main.86cfb841.js.map": "/muhammad-waqar-dev/Resume-builder/static/js/main.86cfb841.js.map",
+    "498.dd75e41a.chunk.js.map": "/muhammad-waqar-dev/Resume-builder/static/js/498.dd75e41a.chunk.js.map",
+    "703.4f1d69e5.chunk.js.map": "/muhammad-waqar-dev/Resume-builder/static/js/703.4f1d69e5.chunk.js.map",
+    "578.89ceb79e.chunk.js.map": "/muhammad-waqar-dev/Resume-builder/static/js/578.89ceb79e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4754bff1.css",
+    "static/js/main.86cfb841.js"
+  ]
+}
