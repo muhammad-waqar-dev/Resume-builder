@@ -44,3 +44,7 @@ This project was created by Muhammad Waqar. Contributions are  always welcome! I
 4. Test your changes to make sure everything works as expected.
 5. Submit a pull request with a detailed description of your changes.
 
+
+
+## "homepage": "https://github.io/muhammad-waqar-dev/Resume-builder",
+## https://master--resume-builder-reactjs18.netlify.app/
