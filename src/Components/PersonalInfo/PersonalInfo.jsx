@@ -100,6 +100,7 @@ const PersonalInfo = (props) => {
 
   const saveImage = () => {
     setSotreImage([{ img }]);
+    console.log({sotreImage})
     // props.onSetProfileImage(img);
     setOpen(false);
   };
